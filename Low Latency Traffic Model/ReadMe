@@ -1,0 +1,1 @@
+This folder contains two NS3 simulation source codes for comparing the Proportional Fair (PF) and Round Robin (RR) schedulers in a low latency traffic model.
